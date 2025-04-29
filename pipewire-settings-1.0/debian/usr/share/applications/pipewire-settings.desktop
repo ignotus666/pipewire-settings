@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=PipeWire Settings
+Comment=Configure PipeWire latency, quantum, and samplerate
+Exec=pipewire-settings
+Icon=pipewire-settings
+Type=Application
+Terminal=false
+Categories=AudioVideo;Mixer;Settings;

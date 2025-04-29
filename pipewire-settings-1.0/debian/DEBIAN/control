@@ -1,0 +1,9 @@
+Package: pipewire-settings
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: yad, bc, pipewire-bin, wireplumber, systemd, awk
+Maintainer: ignotus <darylo1@hotmail.com.com>
+Description: Simple Yad-based PipeWire latency/quantum configuration frontend.
+ A minimal GUI utility for tweaking PipeWire audio settings, requiring yad as its frontend.
